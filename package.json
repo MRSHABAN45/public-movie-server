@@ -1,0 +1,16 @@
+{
+  "name": "public-movie-server",
+  "version": "1.0.0",
+  "description": "Public Domain Movie API (Archive.org)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "axios": "^1.6.8"
+  }
+}
